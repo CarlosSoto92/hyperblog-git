@@ -1,0 +1,59 @@
+commit ad44661134014fa71f6174d5778bf71b04480034
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Mon May 10 20:50:56 2021 -0500
+
+     se agrego mas historia de aventuras de CSS
+
+commit 0339b4f3839be3b31e728806965091528a2696b4
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Mon May 10 20:49:22 2021 -0500
+
+    se agrego mas historia religioa de CSS
+
+commit 6e7cafa89a95d9b07f1a7c40bf7a0dc62e15e40b
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Mon May 10 20:44:45 2021 -0500
+
+    se creo un nuevo proyecto html para seuirle el paso al freddy
+
+commit f70dee777174d330231793a1518551e31b272bdf
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Mon May 10 19:40:01 2021 -0500
+
+    se corriegieron otros detalles
+
+commit bd96f85a45dc93c60890d67b8a5c14d1f260898c
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Mon May 10 19:36:08 2021 -0500
+
+    se agrego una imagen
+
+commit 3efb08f849fc3d861124a080bb629934febfd5b6
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Mon May 10 19:24:18 2021 -0500
+
+    se corrigio el display en el header
+
+commit 042215e78e8c7b9b4ecd1fcfd710cac69d7572f6
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Mon May 10 19:22:24 2021 -0500
+
+    se corrigio la conexio de la hoja de estilos
+
+commit e9efd44671ae6cc3697738be936f9d16865b5cf5
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Mon May 10 19:18:57 2021 -0500
+
+    se avanzo en la cabecera y se agrego la hoja de estilos
+
+commit 5dd9d0d3a30228152d45eb7ac43c66b0208bfd03
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Sat May 8 17:15:13 2021 -0500
+
+    nueva pagina
+
+commit a3d02d385af07de8fa2b7151622eeba1c1c3f578
+Author: Carlos Soto Santis <carlos.soto.santis@gmail.com>
+Date:   Sat May 8 13:33:37 2021 -0500
+
+    se agrego un poco de historia y metas
